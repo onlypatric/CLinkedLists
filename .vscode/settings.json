@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.s": "arm",
-        "string.h": "c"
+        "string.h": "c",
+        "__config": "c"
     }
 }
